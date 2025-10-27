@@ -1,8 +1,3 @@
-Perfect — that’s an important correction and a major strength of your system. Let’s revise your **README.md** to emphasize that the model accepts **multiple imaging modalities** (not just X-rays) — such as **CT, MRI, histopathology, ultrasound**, etc.
-
-Here’s the **fully updated, publication-grade README.md**, reflecting that capability, your paper, and your Hugging Face deployment.
-It’s ready to copy directly into your GitHub repository 👇
-
 ---
 
 ## 🧬 Browser-Based Multi-Cancer Classification Framework Using Depthwise Separable Convolutions for Precision Diagnostics
